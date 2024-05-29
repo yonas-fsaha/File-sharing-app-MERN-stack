@@ -26,55 +26,30 @@ A robust file-sharing application developed using the MERN stack (MongoDB, Expre
 ##### JWT: JSON Web Tokens for authentication.
 
 ## Installation
-Prerequisites
-Node.js and npm installed
-MongoDB installed and running
-Setup
-Clone the repository:
 
-sh
-Copy code
-git clone https://github.com/yonas-fsaha/File-sharing-app-MERN-stack.git
-Navigate to the project directory:
+### Prerequisites
+##### Node.js and npm installed
+##### MongoDB installed and running
 
-sh
-Copy code
-cd File-sharing-app-MERN-stack
-Install server dependencies:
+### Setup
+##### Clone the repository: git clone https://github.com/yonas-fsaha/File-sharing-app-MERN-stack.git
+##### Navigate to the project directory: cd File-sharing-app-MERN-stack
+##### Install server dependencies: cd server && npm install
+##### Install client dependencies: cd ../client && npm install
 
-sh
-Copy code
-cd server
-npm install
-Install client dependencies:
+## Running the Application
+### Start the server:
 
-sh
-Copy code
-cd ../client
-npm install
-Configure environment variables:
-Create a .env file in the server directory with the following:
+##### cd server
+##### npm run dev
 
-env
-Copy code
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-Running the Application
-Start the server:
+### Start the client:
+###### Open another terminal, navigate to the client directory, and run:
+##### cd ../client
+##### npm start
 
-sh
-Copy code
-cd server
-npm run dev
-Start the client:
-Open another terminal, navigate to the client directory, and run:
-
-sh
-Copy code
-cd ../client
-npm start
-Access the application:
-Open your browser and go to http://localhost:3000.
+### Access the application:
+##### Open your browser and go to http://localhost:3000.
 
 Project Structure
 client: Contains the React frontend.
