@@ -8,21 +8,24 @@ A robust file-sharing application developed using the MERN stack (MongoDB, Expre
 #### Responsive Design: Optimized for both desktop and mobile devices.
 #### Drag and Drop: Intuitive drag-and-drop interface for file uploads.
 #### File Previews: Preview images and documents before downloading.
-Technologies Used
-Frontend:
 
-React: Component-based UI development.
-Redux: State management.
-React Router: Client-side routing.
-Bootstrap: Responsive design and styling.
-Backend:
+## Technologies Used
+### Frontend:
 
-Node.js: JavaScript runtime environment.
-Express: Web framework for Node.js.
-MongoDB: NoSQL database.
-Mongoose: ODM for MongoDB.
-JWT: JSON Web Tokens for authentication.
-Installation
+##### React: Component-based UI development.
+##### Redux: State management.
+##### React Router: Client-side routing.
+##### Bootstrap: Responsive design and styling.
+
+### Backend:
+
+##### Node.js: JavaScript runtime environment.
+##### Express: Web framework for Node.js.
+##### MongoDB: NoSQL database.
+##### Mongoose: ODM for MongoDB.
+##### JWT: JSON Web Tokens for authentication.
+
+## Installation
 Prerequisites
 Node.js and npm installed
 MongoDB installed and running
