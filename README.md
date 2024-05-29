@@ -2,12 +2,12 @@
 A robust file-sharing application developed using the MERN stack (MongoDB, Express, React, Node.js).
 
 ## Features
-User Authentication: Secure login and registration using JWT.
-File Upload/Download: Easily upload and download files with progress tracking.
-File Sharing: Share files with others through unique, time-limited links.
-Responsive Design: Optimized for both desktop and mobile devices.
-Drag and Drop: Intuitive drag-and-drop interface for file uploads.
-File Previews: Preview images and documents before downloading.
+#### User Authentication: Secure login and registration using JWT.
+#### File Upload/Download: Easily upload and download files with progress tracking.
+#### File Sharing: Share files with others through unique, time-limited links.
+#### Responsive Design: Optimized for both desktop and mobile devices.
+#### Drag and Drop: Intuitive drag-and-drop interface for file uploads.
+#### File Previews: Preview images and documents before downloading.
 Technologies Used
 Frontend:
 
