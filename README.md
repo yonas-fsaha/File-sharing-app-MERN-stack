@@ -10,6 +10,7 @@ A robust file-sharing application developed using the MERN stack (MongoDB, Expre
 #### File Previews: Preview images and documents before downloading.
 
 ## Technologies Used
+
 ### Frontend:
 
 ##### React: Component-based UI development.
