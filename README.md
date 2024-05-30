@@ -50,7 +50,7 @@ A robust file-sharing application developed using the MERN stack (MongoDB, Expre
 ##### npm start
 
 ### Access the application:
-##### Open your browser and go to http://localhost:3000.
+ Open your browser and go to http://localhost:3000.
 
 ## Project Structure
 ### client: Contains the React frontend.
