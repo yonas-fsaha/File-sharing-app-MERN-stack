@@ -53,6 +53,7 @@ A robust file-sharing application developed using the MERN stack (MongoDB, Expre
  Open your browser and go to http://localhost:3000.
 
 ## Project Structure
+
 ### client: Contains the React frontend.
 ##### public: Static files.
 ##### src: Source code for React components, Redux setup, and utilities.
