@@ -74,4 +74,3 @@ Contributions are welcome! To contribute:
 ##### 3-Push to the branch (git push origin feature-branch).
 ##### 4-Open a pull request.
 
-## License
